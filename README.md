@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wency</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmrxvural&label=Profile%20views&color=0e75b6&style=flat" alt="dmrxvural" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmrxvural" alt="dmrxvural" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmrxvural&label=Profile%20views&color=61177c&style=plastic" alt="dmrxvural" /> </p>
 
 - 🔭 I’m currently working on **websites & discord bots**
 
@@ -22,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmrxvural&show_icons=true&theme=tokyonight&title_color=9929bd&locale=en&layout=compact" alt="dmrxvural" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmrxvural&show_icons=true&locale=en" alt="dmrxvural" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmrxvural&" alt="dmrxvural" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmrxvural&show_icons=true&theme=tokyonight&title_color=61177c&text_color=7b219f&locale=en" alt="dmrxvural" /></p>
