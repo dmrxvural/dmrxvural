@@ -22,5 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmrxvural&show_icons=true&theme=tokyonight&title_color=61177c&text_color=7b219f&locale=en" alt="dmrxvural" /></p>
 
-
-![snake gif](https://github.com/dmrxvural/dmrxvural/blob/output/github-contribution-grid-snake.gif)
