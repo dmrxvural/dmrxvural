@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wency</h1>
+<h1 align="center">Hi 👋, I'm Lynx</h1>
 <h3 align="center">Senior University Student Living In Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmrxvural&label=Profile%20views&color=61177c&style=plastic" alt="dmrxvural" /> </p>
