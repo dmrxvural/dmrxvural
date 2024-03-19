@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **websites & discord bots**
 
-- 💬 Ask me about **Front-end Development**
+- 💬 I'm a **Front-end Development**
 
 - 📫 How to reach me **vuralxt@gmail.com**
 
